@@ -21,6 +21,9 @@ h6{
     align-items: center;
     justify-content: space-between;
     padding: 15px;
+    position: sticky;
+    z-index: 100;
+    top: 0;
 }
 
 .header ul{
