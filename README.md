@@ -1,0 +1,1 @@
+Esto es un clone de una pagina ya existente, solamente estoy practicando como hacer paginas web sin framework, y que sean 100% responsive.
